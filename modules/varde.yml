@@ -1,0 +1,16 @@
+name: varde
+description: Cookie-free, privacy-friendly analytics with Varde. Counts route changes and custom events.
+repo: EliasMag/nuxt-varde
+npm: nuxt-varde
+icon: varde.svg
+github: https://github.com/EliasMag/nuxt-varde
+website: https://vardeanalytics.com/docs/install/nuxt
+learn_more: https://vardeanalytics.com
+category: Analytics
+type: 3rd-party
+maintainers:
+  - name: Elias Magan
+    github: EliasMag
+compatibility:
+  nuxt: '>=3.0.0'
+  requires: {}
